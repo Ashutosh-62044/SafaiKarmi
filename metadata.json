@@ -1,0 +1,7 @@
+{
+  "name": "Safai Karmi - Professional Home Services",
+  "description": "One-stop destination for all home maintenance needs: Cleaning, Plumbing, Carpentry, Painting, and Construction Labor.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
